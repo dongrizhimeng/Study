@@ -21,3 +21,4 @@
 21. Alt+Ctrl+[/]:折叠/展开
 22. Alt+Ctrl+Shift+[/]:折叠/展开全部
 23. Ctrl+Shift+M:MarkDown预览
+24
